@@ -16,9 +16,9 @@
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",
+    "client": "file:client",
     "config": "^3.3.1",
     "express": "^4.17.1",
-    "client": "file:client",
     "express-validator": "^6.4.1",
     "mongoose": "^5.9.12",
     "nodemon": "^2.0.3"
